@@ -85,7 +85,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ High-Frequency Sonic Power</span> – Delivers up to 31,000 vibrations per minute to effectively remove plaque and tartar.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Cordless & Rechargeable</span> – Convenient USB charging for easy, portable use anytime, anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🦷 Multiple Cleaning Modes</span> – Adjustable settings designed for sensitive gums and deep cleaning needs.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Easy to Clean</span> – Safe for use in the bathroom with a sleek, hygienic design.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Heated Precision Styling</span> – Gently lifts and curls lashes while shaping brows with a safe, even heating design for long-lasting results.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Cordless & Rechargeable</span> – USB charging makes it easy to use at home or on the go with a compact, portable design.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Dual-Head Design</span> – Combines a heated eyelash curler and eyebrow trimmer in one sleek tool for quick, precise grooming.\n\n</div>"
           }
         },
         "variant_picker_txHV9a": {
@@ -144,7 +144,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "BEAUTIK",
             "text_size": 20,
             "link": ""
           }
@@ -161,7 +161,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#212326",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -173,7 +173,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "AT BEAUTIK",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -181,7 +181,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>Welcome to our store, where beauty meets innovation. We are dedicated to bringing you high-quality, easy-to-use beauty tools that simplify your daily routine and help you look your best with minimal effort.</p><p>Our mission is to empower confidence through smart, modern products designed for real life. From precision grooming to effortless styling, every item we offer is carefully selected to deliver results you can see and feel.</p><p>We believe beauty should be convenient, effective, and accessible to everyone. That’s why we focus on combining sleek design, reliable performance, and affordability—so you can enjoy salon-quality results anytime, anywhere.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -220,7 +220,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Delivery All Over Lebanon",
             "text_size": 20,
             "link": ""
           }
@@ -237,7 +237,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#212326",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -249,22 +249,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "How long does shipping take?",
+            "text": "<p>Shipping typically takes 5–7 business days depending on your location. You will receive a tracking number once your order has been shipped.</p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Is the product safe to use?",
+            "text": "<p>Yes, our products are designed with safety in mind. Please follow the instructions provided to ensure the best and safest results.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact customer support?",
+            "text": "<p>You can reach our support team via email, and we’ll get back to you as soon as possible.</p>"
           }
         }
       },
