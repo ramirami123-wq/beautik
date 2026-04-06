@@ -310,11 +310,23 @@
             "title_size": "h3",
             "text": ""
           }
+        },
+        "guarantee_mnRC4h": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Cash on delivery",
+            "title_size": "h3",
+            "text": ""
+          }
         }
       },
       "block_order": [
         "guarantee_ej4aWF",
-        "guarantee_g6xKng"
+        "guarantee_g6xKng",
+        "guarantee_mnRC4h"
       ],
       "name": "t:sections.guarantees.presets.name",
       "settings": {
@@ -335,7 +347,7 @@
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 64
       }
     }
   },
