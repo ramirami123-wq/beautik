@@ -293,10 +293,10 @@
           "type": "guarantee",
           "settings": {
             "icon": "truck",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "Delivery all over lebanon",
-            "title_size": "h3",
+            "title_size": "h4",
             "text": ""
           }
         },
@@ -304,10 +304,10 @@
           "type": "guarantee",
           "settings": {
             "icon": "chat_bubble",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "24/7 support",
-            "title_size": "h3",
+            "title_size": "h4",
             "text": ""
           }
         },
@@ -315,10 +315,10 @@
           "type": "guarantee",
           "settings": {
             "icon": "check_mark",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "Cash on delivery",
-            "title_size": "h3",
+            "title_size": "h4",
             "text": ""
           }
         }
@@ -335,11 +335,11 @@
         "horizontal_content": false,
         "full_width": false,
         "show_divider": false,
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "heading": "Guarantees",
         "heading_size": "h1",
         "heading_tag": "h2",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
