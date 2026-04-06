@@ -32,7 +32,7 @@
         "layout": "default",
         "mobile_layout": "marquee",
         "autorotate": true,
-        "autorotate_speed": 5,
+        "autorotate_speed": 9,
         "show_navigation": true,
         "direction": "left",
         "speed": 1.6,
