@@ -28,8 +28,8 @@
       "settings": {
         "show_divider": true,
         "newsletter_enable": true,
-        "newsletter_heading": "Test",
-        "newsletter_text": "",
+        "newsletter_heading": "Contact Us",
+        "newsletter_text": "<p>📞 81 51 60 59</p>",
         "return_url": "",
         "enable_follow_on_shop": true,
         "show_social": true,
