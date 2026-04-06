@@ -250,7 +250,7 @@
           "type": "question",
           "settings": {
             "title": "How long does shipping take?",
-            "text": "<p>Shipping typically takes 5–7 business days depending on your location. You will receive a tracking number once your order has been shipped.</p>"
+            "text": "<p>Shipping typically takes 5–7 business days depending on your location. You will receive a tracking number once your order has been shipped.</p><p>Please note that pre-order items require additional processing time, and shipping may take approximately 20–25 business days.</p>"
           }
         },
         "question_YmRBPG": {
