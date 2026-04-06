@@ -28,7 +28,7 @@
       "settings": {
         "show_divider": true,
         "newsletter_enable": true,
-        "newsletter_heading": "",
+        "newsletter_heading": "Test",
         "newsletter_text": "",
         "return_url": "",
         "enable_follow_on_shop": true,
