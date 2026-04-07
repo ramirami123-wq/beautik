@@ -11,30 +11,8 @@
   "sections": {
     "image-banner": {
       "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Contact Us",
-            "heading_size": "h0",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Questions? Comments? get in touch with us by filling out the email form below.</p>",
-            "text_size": "typeset3",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
       "settings": {
-        "image": "shopify://shop_images/file_00000000959071fdb65099e06f116458.png",
+        "image": "shopify://shop_images/hf_bb487351-8972-41d8-81ad-d1524a3b3d39.jpg",
         "image_position": "top center",
         "text_box_position": "middle-center",
         "text_alignment": "left",
