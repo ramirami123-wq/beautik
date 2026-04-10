@@ -212,7 +212,7 @@
         "text_YhrCBd": {
           "type": "text",
           "settings": {
-            "text": "<p>This innovative device revolutionizes the way you clean your makeup tools, offering efficiency, versatility, and convenience like never before. </p><p>Why get yours?</p><p>Efficient cleaning process Experience a thorough and efficient cleaning process that removes makeup residue, oils, and impurities from your brushes. </p><p>The powerful motor and advanced cleaning technology ensure that your brushes are ready for use in no time. </p><p>Multiple Brush Compatibility Versatility is key. This cleaner is designed to accommodate various brush sizes and types, making it suitable for your entire brush collection. From foundation brushes to eyeshadow brushes, ensure all your tools are kept in pristine condition. </p><p>Compact and Portable Design The compact and lightweight design of our Portable Electric Makeup Brush Cleaner makes it the ideal travel companion. Slip it into your makeup bag or purse, and maintain clean and sanitized brushes wherever your beauty adventures take you. </p><p>Quick-Drying Function Say goodbye to waiting for your brushes to air-dry. The Portable Electric Makeup Brush Cleaner features a quick-drying function that significantly reduces drying time, allowing you to use your favorite brushes shortly after cleaning.</p><p>USB Rechargeable Forget about the hassle of replacing batteries. Our Portable Electric Makeup Brush Cleaner is USB rechargeable, providing you with a sustainable and eco-friendly solution. Charge it easily using your laptop, power bank, or any USB port. </p>",
+            "text": "",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -287,7 +287,7 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Clean brushes = flawless makeup 🤍",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -307,6 +307,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
