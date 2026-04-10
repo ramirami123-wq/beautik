@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Clean brushes = flawless makeup 🤍<br><br>\n\nThis automatic cleaner removes dirt, oil, and makeup residue in seconds, keeping your brushes fresh and your skin healthy.<br>\n✨ Deep cleans in seconds\n✨ Saves time & effort\n✨ Extends brush life\n✨ Hygienic & easy to use <br><br>\nBecause your skin deserves clean tools.<br><br>\n\n🚚 Delivery: 5–7 days<br><br>\n\n\n\n\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Clean brushes = flawless makeup 🤍<br><br>\n\nThis automatic cleaner removes dirt, oil, and makeup residue in seconds, keeping your brushes fresh and your skin healthy.<br>\n✨ Deep cleans in seconds<br>\n✨ Saves time & effort<br>\n✨ Extends brush life<br>\n✨ Hygienic & easy to use <br><br>\nBecause your skin deserves clean tools.<br><br>\n\n🚚 Delivery: 5–7 days<br><br>\n\n</div>"
           }
         },
         "variant_picker": {
