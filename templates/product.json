@@ -352,10 +352,10 @@
           "type": "guarantee",
           "settings": {
             "icon": "truck",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "DELIVERY ALL OVER LEBANON",
-            "title_size": "h3",
+            "title_size": "h4",
             "text": ""
           }
         },
@@ -363,17 +363,29 @@
           "type": "guarantee",
           "settings": {
             "icon": "phone",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "24/7 SUPPORT",
-            "title_size": "h3",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_VhbHRX": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "Cash on delivery",
+            "title_size": "h4",
             "text": ""
           }
         }
       },
       "block_order": [
         "guarantee_C9FjyP",
-        "guarantee_hU6LiX"
+        "guarantee_hU6LiX",
+        "guarantee_VhbHRX"
       ],
       "name": "t:sections.guarantees.presets.name",
       "settings": {
