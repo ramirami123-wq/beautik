@@ -102,7 +102,7 @@
           "settings": {
             "icon": "heart",
             "heading": "Description",
-            "keep_open": false
+            "keep_open": true
           }
         }
       },
