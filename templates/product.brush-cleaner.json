@@ -175,14 +175,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collage-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/rn-image_picker_lib_temp_7899bd89-7fb4-4f22-bf26-5aa603ef096a.jpg",
-            "heading": "",
-            "link": ""
-          }
-        },
         "collage-2": {
           "type": "image",
           "disabled": true,
@@ -193,7 +185,6 @@
         }
       },
       "block_order": [
-        "collage-1",
         "collage-2"
       ],
       "settings": {
@@ -235,7 +226,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
+        "image": "shopify://shop_images/rn-image_picker_lib_temp_7899bd89-7fb4-4f22-bf26-5aa603ef096a.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -254,6 +245,70 @@
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_E7Bwan": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_HhyyXb": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "DELIVERY ALL OVER LEBANON",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_apcUKw": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "24/7 SUPPORT",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_PiPN3f": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "Cash on delivery",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_HhyyXb",
+        "guarantee_apcUKw",
+        "guarantee_PiPN3f"
+      ],
+      "name": "t:sections.guarantees.presets.name",
+      "settings": {
+        "layout": "default",
+        "column_alignment": "left",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -333,6 +388,7 @@
     "product-recommendations",
     "collage",
     "image_with_text_pHMMGG",
+    "guarantees_E7Bwan",
     "testimonials"
   ]
 }
