@@ -274,15 +274,15 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "How To Use?",
-            "heading_size": "h2",
+            "heading": "Because your skin deserves clean tools",
+            "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p>〽️Use every morning and evening after cleansing and toning.</p><p>〽️Apply an appropriate amount to the skin.</p><p>〽️Spread evenly over the face.</p><p>〽️Gently pat until fully absorbed.</p>",
+            "text": "<p>✨ Deep & efficient cleaning</p><p>Removes buildup and bacteria for a flawless application every time</p><p>✨ Fits all brush sizes</p><p>From foundation to eyeshadow brushes, even sponges — one device does it all</p><p>✨ Compact & travel-friendly</p><p>Lightweight design, perfect for home or on-the-go use</p><p>✨ Quick-drying function</p><p>No more waiting — your brushes are ready in minutes</p><p>✨ USB rechargeable</p><p>Easy, convenient, and no batteries needed</p><p>Keep your brushes clean. </p><p>Keep your skin glowing ✨</p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -294,7 +294,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/rn-image_picker_lib_temp_a675ac01-5eb3-44bd-a1bb-ea022f2904e7.webp",
+        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -304,10 +304,9 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/rn-image_picker_lib_temp_a675ac01-5eb3-44bd-a1bb-ea022f2904e7.webp",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
+        "mobile_image_ratio": "auto",
         "enable_video_looping": false,
         "video_url": "",
         "use_custom_colors": false,
