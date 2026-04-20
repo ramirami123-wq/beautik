@@ -179,15 +179,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/rn-image_picker_lib_temp_7899bd89-7fb4-4f22-bf26-5aa603ef096a.jpg",
-            "heading": "Image heading",
-            "link": ""
-          }
-        },
-        "image_pQTewj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/rn-image_picker_lib_temp_25e937e3-fb0f-4706-a86c-2df5a3a7e53a.jpg",
-            "heading": "Image heading",
+            "heading": "",
             "link": ""
           }
         },
@@ -202,7 +194,6 @@
       },
       "block_order": [
         "collage-1",
-        "image_pQTewj",
         "collage-2"
       ],
       "settings": {
