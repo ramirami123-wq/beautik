@@ -209,6 +209,57 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_pHMMGG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ETXQgL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Because your skin deserves clean tools",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_XFjAzq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✨ Deep & efficient cleaning</p><p>Removes buildup and bacteria for a flawless application every time</p><p>✨ Fits all brush sizes</p><p>From foundation to eyeshadow brushes, even sponges — one device does it all</p><p>✨ Compact & travel-friendly</p><p>Lightweight design, perfect for home or on-the-go use</p><p>✨ Quick-drying function</p><p>No more waiting — your brushes are ready in minutes</p><p>✨ USB rechargeable</p><p>Easy, convenient, and no batteries needed</p><p>Keep your brushes clean. </p><p>Keep your skin glowing ✨</p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ETXQgL",
+        "text_XFjAzq"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -281,6 +332,7 @@
     "product-details",
     "product-recommendations",
     "collage",
+    "image_with_text_pHMMGG",
     "testimonials"
   ]
 }
