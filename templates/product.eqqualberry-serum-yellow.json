@@ -57,19 +57,6 @@
             "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ EQQUALBERRY Vitamin Illuminating Serum</span><br>\nNiacinamide 4% + Vitamin C brightening serum for radiant, even-toned skin.<br><br>\n\n<span style=\"font-weight: bold;\">🍒 Natural Vitamin C Radiance</span> – Acerola (Vitamin C) helps boost glow, improve skin tone, and give a healthy glass-skin effect.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Triple Brightening Action</span> – Niacinamide 4% + Arbutin 2% help reduce dark spots and even out skin tone for a clearer complexion.<br><br>\n\n<span style=\"font-weight: bold;\">⏳ Anti-Aging Support</span> – Vitamin E, Ferulic Acid & Tranexamic Acid help smooth fine lines and improve skin vibrance.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Deep Hydration & Barrier Repair</span> – 5 ceramides + 8 types of hyaluronic acid lock in moisture and strengthen the skin barrier.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Lightweight & Non-Sticky</span> – Fast-absorbing formula suitable for face, neck, and body. Perfect for daily use.<br><br>\n\n<span style=\"font-weight: bold;\">🛡️ Clean & Safe Formula</span> – EWG Green Grade, free from parabens and silicones. Suitable for sensitive skin.<br><br>\n\n<span style=\"font-weight: bold;\">🌟 Key Benefits:</span><br>\n⚖️ Controls oil<br>\n🌿 Balances skin<br>\n✨ Brightens complexion<br>\n💧 Provides light hydration<br>\n💛 Fresh, clean finish<br><br>\n\n<span style=\"font-weight: bold;\">🧴 Skin Type:</span> Sensitive, Oily, Dry & Combination<br><br>\n\n<span style=\"font-weight: bold;\">🌸 Scent:</span> Unscented<br><br>\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span> Apply morning and evening after cleansing and toning. Spread evenly and gently pat for absorption.<br><br>\n\n<span style=\"font-weight: bold;\">🚚 Delivery:</span> 5–7 days\n\n</div>"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -113,7 +100,6 @@
         "price",
         "custom_liquid_TJV3Ri",
         "custom_liquid_H9DXEK",
-        "variant_picker",
         "buy_buttons",
         "custom_liquid_wbDEGx",
         "related_buttons",
@@ -191,8 +177,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#000000",
-        "colors_background": "#cb572a",
+        "colors_text": "#ceb474",
+        "colors_background": "#212326",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -204,7 +190,7 @@
         "heading_76UTPd": {
           "type": "heading",
           "settings": {
-            "heading": "Powerful Cleaning. Healthier Smile.",
+            "heading": "Find Your Perfect Eqqualberry Serum!",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -212,7 +198,7 @@
         "text_x39RiF": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Experience professional-level oral care at home with the Youngevity Sonic Dental Scaler. Designed with high-frequency sonic technology, it helps remove plaque and tartar safely and effectively, giving you a brighter, fresher smile with every use.<br/><br/></p>",
+            "text": "<p> ✨Pick your color, fix your concern:</p><p>💖 Pink (Bakuchiol): Smooths fine lines and boosts bounce.</p><p>💛 Yellow (Vitamin C): Brightens dark spots and adds a glow.</p><p>💜 Purple (PDRN): Tightens pores and firms up skin.Simple, gentle, and effective. Which one are you grabbing? 🧖‍♀️</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,8 +259,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#000000",
-        "colors_background": "#cb572a",
+        "colors_text": "#ceb474",
+        "colors_background": "#212326",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
