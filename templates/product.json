@@ -190,7 +190,7 @@
         "heading_6trkAV": {
           "type": "heading",
           "settings": {
-            "heading": "EQQUALBERRY Vitamin Illuminating Serum | Niacinamide 4% + Brightening Vitamin C Face Serum with Hyaluronic Acid & Vitamin E | Dark Spot, Uneven Tone Care |",
+            "heading": "Find Your Perfect Eqqualberry Serum! ✨Pick your color, fix your concern:💖 Pink (Bakuchiol): Smooths fine lines and boosts bounce.💛 Yellow (Vitamin C): Brightens dark spots and adds a glow.💜 Purple (PDRN): Tightens pores and firms up skin.Simple, gentle, and effective. Which one are you grabbing? 🧖‍♀️",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -210,7 +210,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/rn-image_picker_lib_temp_51c65b3d-6c34-460a-964e-06fd3a1f6278.webp",
+        "image": "shopify://shop_images/Screenshot_20260419_145430_Facebook_1__1776717541727.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -220,7 +220,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/rn-image_picker_lib_temp_51c65b3d-6c34-460a-964e-06fd3a1f6278.webp",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
