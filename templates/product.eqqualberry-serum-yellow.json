@@ -68,7 +68,7 @@
         "custom_liquid_wbDEGx": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 13px; margin-top: 12px; margin-bottom: 12px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#545454\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive by <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 2);\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 3);\n\n        var formatDate = function(date) {\n            var dayNames = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"];\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n                \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var month = monthNames[date.getMonth()];\n            var weekday = dayNames[date.getDay()];\n            return weekday + \", \" + month + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' – ' + formatDate(maxDeliveryDate);\n    });\n</script>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 13px; margin-top: 12px; margin-bottom: 12px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#545454\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive by <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 3);\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 5);\n\n        var formatDate = function(date) {\n            var dayNames = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"];\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n                \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var month = monthNames[date.getMonth()];\n            var weekday = dayNames[date.getDay()];\n            return weekday + \", \" + month + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' – ' + formatDate(maxDeliveryDate);\n    });\n</script>"
           }
         },
         "related_buttons": {
@@ -234,69 +234,29 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_6Xj9FQ": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_QJYrYr": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Professional clean, anytime.",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_QJYrYr"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ceb474",
-        "colors_background": "#212326",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "image_with_text_BnjUnJ": {
+    "image_with_text_FaTF7H": {
       "type": "image-with-text",
       "blocks": {
-        "heading_eTDxyc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Advanced Care for Everyday Confidence",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_iNcMJf": {
+        "text_La8GQ7": {
           "type": "text",
           "settings": {
-            "text": "<p>The Youngevity Sonic Dental Scaler combines powerful sonic vibrations with a sleek, user-friendly design to help you maintain a cleaner, brighter smile from the comfort of your home.</p>",
+            "text": "",
             "text_size": "typeset2",
             "secondary_color": false
           }
         }
       },
       "block_order": [
-        "heading_eTDxyc",
-        "text_iNcMJf"
+        "text_La8GQ7"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Screenshot_20260419_145430_Facebook_1__1776717541727_01fc3946-a7c7-4ae9-a715-23f8117315a5.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "400px",
+        "text_alignment": "center",
+        "image_ratio": "650px",
         "enlarge_content": false,
         "full_width": false,
         "show_divider": false,
@@ -313,84 +273,12 @@
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 76
       }
     },
     "1771851225f27f01d7": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_c856904_yzEHtE": {
-          "type": "ai_gen_block_c856904",
-          "settings": {
-            "header_col_1": "Feature",
-            "header_col_2": "US",
-            "header_col_3": "OTHERS",
-            "row_1_col_1": "Advanced Technology",
-            "row_1_col_2": "✅",
-            "row_1_col_3": "❌",
-            "row_2_col_1": "Safe & Beginner-Friendly",
-            "row_2_col_2": "✅",
-            "row_2_col_3": "❌",
-            "row_3_col_1": "Premium, Waterproof Design",
-            "row_3_col_2": "✅",
-            "row_3_col_3": "❌",
-            "row_4_col_1": "Complete Care Kit",
-            "row_4_col_2": "✅",
-            "row_4_col_3": "❌",
-            "header_background": "#cb572a",
-            "header_text_color": "#ffffff",
-            "row_odd_background": "#f3f3f3",
-            "row_even_background": "#ffffff",
-            "cell_text_color": "#212326",
-            "border_color": "#d2d5d9",
-            "table_background": "#ffffff",
-            "desktop_width_percent": 100,
-            "header_font_size": 16,
-            "cell_font_size": 14,
-            "cell_padding": 16,
-            "border_width": 1,
-            "border_radius": 0,
-            "text_alignment": "left"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_c856904_yzEHtE"
-      ],
       "settings": {}
-    },
-    "scrolling_promotion_Cb7gQx": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_kHrMKE": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Confident smile starts here.",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_kHrMKE"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#000000",
-        "colors_background": "#cb572a",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     },
     "17718508649b1c6768": {
       "type": "_blocks",
@@ -422,66 +310,6 @@
       ],
       "disabled": true,
       "settings": {}
-    },
-    "faq_YDJ73w": {
-      "type": "faq",
-      "blocks": {
-        "question_LwBBn4": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
-          }
-        },
-        "question_mcJhGt": {
-          "type": "question",
-          "settings": {
-            "title": "How often should I use the dental scaler?",
-            "text": "<p>For best results, use it 1–2 times per week to help remove plaque and tartar buildup. Avoid overuse to protect your enamel and gums.<br/></p>"
-          }
-        },
-        "question_GJeyJf": {
-          "type": "question",
-          "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.</p>"
-          }
-        },
-        "question_gCFgAe": {
-          "type": "question",
-          "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_LwBBn4",
-        "question_mcJhGt",
-        "question_GJeyJf",
-        "question_gCFgAe"
-      ],
-      "name": "t:sections.faq.presets.name",
-      "settings": {
-        "narrow": false,
-        "secondary_background": false,
-        "show_divider": false,
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1772374854c0137fbe": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     },
     "guarantees_Yj7NaV": {
       "type": "guarantees",
@@ -546,14 +374,10 @@
     "product-recommendations",
     "scrolling_promotion_kXwVN7",
     "image_with_text_77JWBq",
-    "scrolling_promotion_6Xj9FQ",
-    "image_with_text_BnjUnJ",
+    "image_with_text_FaTF7H",
     "1771851225f27f01d7",
-    "scrolling_promotion_Cb7gQx",
     "17718508649b1c6768",
     "1771931222846ebc40",
-    "faq_YDJ73w",
-    "1772374854c0137fbe",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
   ]
