@@ -311,35 +311,47 @@
       "disabled": true,
       "settings": {}
     },
-    "guarantees_Yj7NaV": {
+    "guarantees_itFBcJ": {
       "type": "guarantees",
       "blocks": {
-        "guarantee_C9FjyP": {
+        "guarantee_DTi7VN": {
           "type": "guarantee",
           "settings": {
             "icon": "truck",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "DELIVERY ALL OVER LEBANON",
-            "title_size": "h3",
+            "title_size": "h4",
             "text": ""
           }
         },
-        "guarantee_hU6LiX": {
+        "guarantee_6aKXXN": {
           "type": "guarantee",
           "settings": {
             "icon": "phone",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
             "title": "24/7 SUPPORT",
-            "title_size": "h3",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_LF6Xkx": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "Cash on delivery",
+            "title_size": "h4",
             "text": ""
           }
         }
       },
       "block_order": [
-        "guarantee_C9FjyP",
-        "guarantee_hU6LiX"
+        "guarantee_DTi7VN",
+        "guarantee_6aKXXN",
+        "guarantee_LF6Xkx"
       ],
       "name": "t:sections.guarantees.presets.name",
       "settings": {
@@ -378,7 +390,7 @@
     "1771851225f27f01d7",
     "17718508649b1c6768",
     "1771931222846ebc40",
-    "guarantees_Yj7NaV",
+    "guarantees_itFBcJ",
     "1771850465e38b72c3"
   ]
 }
