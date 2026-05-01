@@ -246,7 +246,7 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "Your Everyday SPF Essential",
+            "heading": "Brightening Care in Every Drop",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -254,7 +254,7 @@
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p>Formulated to feel exactly like a creamy moisturizer, our Internet-famous sunscreen stays lightweight and non-sticky no matter how much you apply.</p><p> Infused with 30% rice extract and fermented grain extracts rich in vitamins, amino acids, and minerals to help moisturize and soothe with every application.</p><p> Absorbs quickly for a natural glow with zero white cast, ever.</p>",
+            "text": "<p>A dual-texture brightening cream designed to improve dullness, uneven skin tone, and early signs of aging.</p><p>Vitamin C capsules deliver fresh antioxidants directly to the skin, while the gel base hydrates and soothes for a healthy glow.</p><p>Can be mixed to suit your skin needs for a fully customized routine.</p><p>Key Benefits: • Brightens and evens skin tone</p><p>• Helps reduce dark spots and dullness</p><p>• Provides antioxidant protection (Vitamin C, E & Ferulic Acid)</p><p>• Lightweight, non-greasy hydration</p><p>• Suitable for all skin types</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -266,7 +266,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010521.jpg",
+        "image": "shopify://shop_images/1001010776.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
