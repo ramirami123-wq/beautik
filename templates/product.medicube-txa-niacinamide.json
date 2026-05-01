@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ 99% Pure Tranexamic Acid (TXA)</span> – A gentle yet effective ingredient that helps reduce dark spots, acne scars, and hyperpigmentation for a clearer, more even skin tone.<br><br>\n\n<span style=\"font-weight: bold;\">💧 High Purity & Fast Absorption</span> – 99% purity allows quick absorption with no residue, delivering active ingredients efficiently into the skin.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Low Irritation Formula</span> – Designed to be effective while remaining gentle on the skin, suitable for daily use.<br><br>\n\n<span style=\"font-weight: bold;\">❤️ 5% Niacinamide</span> – Helps improve skin texture, refine pores, and restore a smooth, radiant complexion.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Alpha-Arbutin & Glutathione</span> – Support brighter, clearer skin while boosting hydration and natural glow.<br><br>\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span><br>\nMix the capsule and gel, then apply evenly to face and neck as the last step of your skincare routine.<br>\nAdjust ratio: more gel for lightweight hydration, more capsules for intensive care.<br><br>\n\n<span style=\"font-weight: bold;\">Delivery:</span> 3–5 business days.<br>\n💵 Cash on delivery available\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🌞 Broad Spectrum SPF50+ Protection</span> – Advanced UV filters protect against UVA & UVB rays to prevent sun damage, dark spots, and premature aging.<br><br>\n\n<span style=\"font-weight: bold;\">🧬 0.5% Collagen Complex (5,000 ppm)</span> – A blend of 4 types of collagen helps improve skin elasticity and maintain a firmer, smoother appearance.<br><br>\n\n<span style=\"font-weight: bold;\">💛 Niacinamide (0.55% – 1.25%)</span> – Brightens skin tone, refines texture, and supports anti-aging care.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Panthenol + Hyaluronic Acid Complex</span> – Provides deep, multi-layer hydration while soothing and strengthening the skin barrier.<br><br>\n\n<span style=\"font-weight: bold;\">🛡 Ceramide NP + Adenosine</span> – Reinforce moisture barrier and help reduce the appearance of fine lines and wrinkles.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Lightweight & Non-Greasy Texture</span> – Absorbs quickly with no heavy or sticky feel, perfect for daily use and under makeup.<br><br>\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span><br>\nApply evenly as the last step of your skincare routine before sun exposure. Reapply every 2–3 hours.<br><br>\n\n<span style=\"font-weight: bold;\">Delivery:</span> 3–5 business days.<br>\n💵 Cash on delivery available\n\n</div>"
           }
         },
         "variant_picker": {
@@ -359,14 +359,14 @@
           "type": "question",
           "settings": {
             "title": "Is this suitable for all skin types?",
-            "text": "<p>Yes, the formula is gentle and non-irritating, making it suitable for sensitive and acne-prone skin.</p>"
+            "text": "<p>Yes, it is suitable for all skin types, including sensitive skin.</p>"
           }
         },
         "question_gcXFMX": {
           "type": "question",
           "settings": {
-            "title": "When will I see results?",
-            "text": "<p>You may notice improved hydration and glow within a few uses, while dark spots and uneven tone improve with consistent use.<br/></p>"
+            "title": "What makes this sunscreen different?",
+            "text": "<p>It not only protects from UV rays but also contains collagen and skincare ingredients to help firm and hydrate the skin.<br/></p>"
           }
         }
       },
