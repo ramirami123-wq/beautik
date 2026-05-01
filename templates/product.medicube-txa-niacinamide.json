@@ -171,7 +171,7 @@
         "text_YhrCBd": {
           "type": "text",
           "settings": {
-            "text": "<p>Apply after cleansing and toning.</p><p>Adjust the capsule-to-gel ratio to your skin’s needs, then smooth evenly across the face.</p><p>Use daily and follow with sunscreen in the morning for best results.</p><p>Mix the vitamin capsule and transparent gel in a suitable ratio based on your skin type. For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule. Apply the mixture morning and evening to face and neck, after serum.</p>",
+            "text": "<p>Mix the red TXA capsule and red gel in a suitable ratio based on your skin type.</p><p> For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule. Apply the mixture morning and evening to face and neck, after serum. </p><p>Customize your routine based on skin needs!</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -183,7 +183,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010778.jpg",
+        "image": "shopify://shop_images/1001011025.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -212,7 +212,7 @@
       "type": "image-with-text",
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010936.jpg",
+        "image": "shopify://shop_images/1001011026.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -331,10 +331,10 @@
             "columns_mobile": "2",
             "gap": 16,
             "desktop_width_percent": 100,
-            "gif_1": "shopify://shop_images/1001010917.jpg",
-            "gif_2": "shopify://shop_images/1001010915.jpg",
-            "gif_3": "shopify://shop_images/1001010776.jpg",
-            "gif_4": "shopify://shop_images/1763644046_phpbap01me57h6jfYuBJzr.jpg",
+            "gif_1": "shopify://shop_images/1001011023.jpg",
+            "gif_2": "shopify://shop_images/1001011024.jpg",
+            "gif_3": "shopify://shop_images/1001011022.jpg",
+            "gif_4": "shopify://shop_images/1001011021.jpg",
             "hover_scale": 1.1,
             "border_radius": 8,
             "placeholder_bg_color": "#f3f3f3",
