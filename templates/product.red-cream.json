@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ 50% Sea Buckthorn Extract (Vitamin Tree Water)</span> – Rich in antioxidants, deeply nourishes the skin and provides intense hydration while supporting a healthy glow.<br><br>\n\n<span style=\"font-weight: bold;\">💛 5% Niacinamide (Vitamin B3)</span> – Helps refine skin texture, minimize pores, reduce fine lines, and improve overall radiance and tone.<br><br>\n\n<span style=\"font-weight: bold;\">🍊 Pure Vitamin C (Ascorbic Acid + Derivatives)</span> – Brightens dull skin, improves elasticity, and supports firmer, more even-looking skin.<br><br>\n\n<span style=\"font-weight: bold;\">🛡 Ferulic Acid + Vitamins E, Q, P</span> – Strengthen Vitamin C effectiveness, protect against environmental stress, and help maintain youthful-looking skin.<br><br>\n\n<span style=\"font-weight: bold;\">📌 Skin Concerns:</span><br>\nAnti-aging • Acne & blemishes • Dullness • Uneven skin tone<br><br>\n\n<span style=\"font-weight: bold;\">Delivery:</span> 3–5 business days.<br>\n💵 Cash on delivery available\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ 99% Pure Tranexamic Acid (TXA)</span> – A gentle yet effective ingredient that helps reduce dark spots, acne scars, and hyperpigmentation for a clearer, more even skin tone.<br><br>\n\n<span style=\"font-weight: bold;\">💧 High Purity & Fast Absorption</span> – 99% purity allows quick absorption with no residue, delivering active ingredients efficiently into the skin.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Low Irritation Formula</span> – Designed to be effective while remaining gentle on the skin, suitable for daily use.<br><br>\n\n<span style=\"font-weight: bold;\">❤️ 5% Niacinamide</span> – Helps improve skin texture, refine pores, and restore a smooth, radiant complexion.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Alpha-Arbutin & Glutathione</span> – Support brighter, clearer skin while boosting hydration and natural glow.<br><br>\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span><br>\nMix the capsule and gel, then apply evenly to face and neck as the last step of your skincare routine.<br>\nAdjust ratio: more gel for lightweight hydration, more capsules for intensive care.<br><br>\n\n<span style=\"font-weight: bold;\">Delivery:</span> 3–5 business days.<br>\n💵 Cash on delivery available\n\n</div>"
           }
         },
         "variant_picker": {
@@ -171,7 +171,7 @@
         "text_YhrCBd": {
           "type": "text",
           "settings": {
-            "text": "<p>Apply after cleansing and toning.</p><p>Adjust the capsule-to-gel ratio to your skin’s needs, then smooth evenly across the face.</p><p>Use daily and follow with sunscreen in the morning for best results.</p><p>Mix the vitamin capsule and transparent gel in a suitable ratio based on your skin type. For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule. Apply the mixture morning and evening to face and neck, after serum.</p>",
+            "text": "<p>MMix the red TXA capsule and red gel in a suitable ratio based on your skin type.</p><p>For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule.</p><p>Apply the mixture morning and evening to face and neck, after serum. </p><p>Customize your routine based on skin needs!</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -183,7 +183,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010778.jpg",
+        "image": "shopify://shop_images/1001011024.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -212,7 +212,7 @@
       "type": "image-with-text",
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010936.jpg",
+        "image": "shopify://shop_images/1001011026.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -275,7 +275,7 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "Brightening Care in Every Drop",
+            "heading": "Clearer Skin, Smarter Care",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -283,7 +283,7 @@
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p>A dual-texture brightening cream designed to improve dullness, uneven skin tone, and early signs of aging.</p><p>Vitamin C capsules deliver fresh antioxidants directly to the skin, while the gel base hydrates and soothes for a healthy glow.</p><p>Can be mixed to suit your skin needs for a fully customized routine.</p><p>Key Benefits: </p><p>• Brightens and evens skin tone</p><p>• Helps reduce dark spots and dullness</p><p>• Provides antioxidant protection (Vitamin C, E & Ferulic Acid)</p><p>• Lightweight, non-greasy hydration</p><p>• <strong>Suitable for all skin types</strong></p>",
+            "text": "<p>Tis advanced capsule cream is designed for those struggling with stubborn dark spots, post-acne marks, and uneven skin tone. </p><p>By combining targeted brightening ingredients with deep hydration, it helps restore clarity and balance without stressing the skin. </p><p>The formula supports your skin barrier while improving overall radiance, making it ideal for daily use if you want smoother, healthier-looking skin over time.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,7 +295,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010916.jpg",
+        "image": "shopify://shop_images/1776767546_phprncamgu5au0f1UtxR1V.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
