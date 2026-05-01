@@ -361,38 +361,31 @@
         "question_n7zkTH": {
           "type": "question",
           "settings": {
-            "title": "How does the heated eyelash curler work?",
-            "text": "<p>It gently heats up to lift and curl your lashes, giving a more natural and longer-lasting result than traditional curlers.</p>"
+            "title": "Is this sunscreen suitable for all skin types?",
+            "text": "<p>Yes, it is suitable for all skin types, including sensitive skin.</p>"
           }
         },
         "question_gcXFMX": {
           "type": "question",
           "settings": {
-            "title": "Is it safe to use?",
-            "text": "<p>Yes, it’s designed with controlled temperature settings to ensure safe and gentle use on your lashes and brows.<br/></p>"
+            "title": "Does it leave a white cast?",
+            "text": "<p>No, it blends easily into the skin with no white cast.<br/></p>"
           }
         },
         "question_YXMc6N": {
           "type": "question",
           "settings": {
-            "title": "Can I use it every day?",
-            "text": "<p>Yes, it’s gentle enough for daily use depending on your preference.</p>"
-          }
-        },
-        "question_cPqK94": {
-          "type": "question",
-          "settings": {
-            "title": "Is it suitable for all lash types?",
-            "text": "<p>Yes, it works well on short, long, thick, and thin lashes.</p>"
+            "title": "Can I use it under makeup?",
+            "text": "<p>Yes, it works perfectly as a smooth base under makeup. </p><p> It has a lightweight, non-greasy texture that absorbs quickly.</p>"
           }
         }
       },
       "block_order": [
         "question_n7zkTH",
         "question_gcXFMX",
-        "question_YXMc6N",
-        "question_cPqK94"
+        "question_YXMc6N"
       ],
+      "custom_css": [],
       "name": "t:sections.faq.presets.name",
       "settings": {
         "narrow": false,
