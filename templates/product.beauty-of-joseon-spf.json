@@ -96,14 +96,6 @@
           "settings": {
             "show_quantity_selector": false
           }
-        },
-        "collapsible_description_mFEEde": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "heart",
-            "heading": "Description",
-            "keep_open": true
-          }
         }
       },
       "block_order": [
@@ -117,8 +109,7 @@
         "buy_buttons",
         "custom_liquid_wbDEGx",
         "related_buttons",
-        "sticky_cart",
-        "collapsible_description_mFEEde"
+        "sticky_cart"
       ],
       "custom_css": [
         ".product-form__submit {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
@@ -258,7 +249,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Lift, shape, and glow in seconds",
+            "text": "Beauty of Joseon",
             "text_size": 20,
             "link": ""
           }
@@ -287,7 +278,7 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "Smart Design, Stunning Results",
+            "heading": "Your Everyday SPF Essential",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -295,7 +286,7 @@
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>With its dual-head functionality and gentle heating technology, this device gives you precision and comfort in every use. Designed for convenience, it helps you look polished anytime, anywhere.<br/><br/></p>",
+            "text": "<p>Formulated to feel exactly like a creamy moisturizer, our Internet-famous sunscreen stays lightweight and non-sticky no matter how much you apply. Infused with 30% rice extract and fermented grain extracts rich in vitamins, amino acids, and minerals to help moisturize and soothe with every application. Absorbs quickly for a natural glow with zero white cast, ever.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -307,7 +298,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bes66.jpg",
+        "image": "shopify://shop_images/1001010521.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -319,7 +310,7 @@
         "image_behavior": "none",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
+        "mobile_image_ratio": "adapt",
         "enable_video_looping": false,
         "video_url": "",
         "use_custom_colors": false,
@@ -335,44 +326,31 @@
     "blocks_8dT8XJ": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_c856904_dTfYDd": {
-          "type": "ai_gen_block_c856904",
+        "ai_gen_block_4f31cf3_xxxXw4": {
+          "type": "ai_gen_block_4f31cf3",
+          "name": "Animated GIF gallery",
           "settings": {
-            "header_col_1": "Feature",
-            "header_col_2": "Us",
-            "header_col_3": "Others",
-            "row_1_col_1": "Portable & Compact",
-            "row_1_col_2": "Travel-Friendly",
-            "row_1_col_3": "Bulky",
-            "row_2_col_1": "Safe & Gentle Use",
-            "row_2_col_2": "Skin-Friendly",
-            "row_2_col_3": "Can Pull Hair",
-            "row_3_col_1": "USB Rechargeable",
-            "row_3_col_2": "Yes",
-            "row_3_col_3": "No",
-            "row_4_col_1": "Heated Lash Technology",
-            "row_4_col_2": "Yes",
-            "row_4_col_3": "Basic Curlers",
-            "header_background": "#212326",
-            "header_text_color": "#ffffff",
-            "row_odd_background": "#f3f3f3",
-            "row_even_background": "#ffffff",
-            "cell_text_color": "#212326",
-            "border_color": "#d2d5d9",
-            "table_background": "#ffffff",
+            "columns_desktop": 2,
+            "columns_mobile": "2",
+            "gap": 16,
             "desktop_width_percent": 100,
-            "header_font_size": 16,
-            "cell_font_size": 14,
-            "cell_padding": 16,
-            "border_width": 1,
-            "border_radius": 0,
-            "text_alignment": "left"
+            "gif_1": "shopify://shop_images/1001010722.png",
+            "gif_2": "shopify://shop_images/1001010725.png",
+            "gif_3": "shopify://shop_images/1001010724.png",
+            "gif_4": "shopify://shop_images/1001010723.png",
+            "hover_scale": 1.1,
+            "border_radius": 8,
+            "placeholder_bg_color": "#f3f3f3",
+            "shadow_horizontal": 0,
+            "shadow_vertical": 4,
+            "shadow_blur": 12,
+            "shadow_opacity": 0.2
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_c856904_dTfYDd"
+        "ai_gen_block_4f31cf3_xxxXw4"
       ],
       "name": "Benefits table",
       "settings": {}
