@@ -266,7 +266,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010776.jpg",
+        "image": "shopify://shop_images/1001010916.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -302,10 +302,10 @@
             "columns_mobile": "2",
             "gap": 16,
             "desktop_width_percent": 100,
-            "gif_1": "shopify://shop_images/1777472611_phpjpandqna70c96cwhkrE.jpg",
-            "gif_2": "shopify://shop_images/1001010725.png",
-            "gif_3": "shopify://shop_images/1001010724.png",
-            "gif_4": "shopify://shop_images/1001010723.png",
+            "gif_1": "shopify://shop_images/1001010917.jpg",
+            "gif_2": "shopify://shop_images/1001010915.jpg",
+            "gif_3": "shopify://shop_images/1001010776.jpg",
+            "gif_4": "shopify://shop_images/1763644046_phpbap01me57h6jfYuBJzr.jpg",
             "hover_scale": 1.1,
             "border_radius": 8,
             "placeholder_bg_color": "#f3f3f3",
@@ -329,29 +329,21 @@
         "question_n7zkTH": {
           "type": "question",
           "settings": {
-            "title": "Is this sunscreen suitable for all skin types?",
+            "title": "Is this suitable for all skin types?",
             "text": "<p>Yes, it is suitable for all skin types, including sensitive skin.</p>"
           }
         },
         "question_gcXFMX": {
           "type": "question",
           "settings": {
-            "title": "Does it leave a white cast?",
-            "text": "<p>No, it blends easily into the skin with no white cast.<br/></p>"
-          }
-        },
-        "question_YXMc6N": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use it under makeup?",
-            "text": "<p>Yes, it works perfectly as a smooth base under makeup. </p><p> It has a lightweight, non-greasy texture that absorbs quickly.</p>"
+            "title": "When will I see results?",
+            "text": "<p>You may notice improved hydration and glow after a few uses, while visible brightening and more even skin tone appear with consistent use over time.<br/></p>"
           }
         }
       },
       "block_order": [
         "question_n7zkTH",
-        "question_gcXFMX",
-        "question_YXMc6N"
+        "question_gcXFMX"
       ],
       "custom_css": [],
       "name": "t:sections.faq.presets.name",
