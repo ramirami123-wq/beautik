@@ -157,45 +157,13 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_z47dKa": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UzDWeN": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Best Seller",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UzDWeN"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#212326",
-        "gradient_background": "",
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "image_with_text_h9WHFX": {
       "type": "image-with-text",
       "blocks": {
         "heading_6trkAV": {
           "type": "heading",
           "settings": {
-            "heading": "Relief Sun: Rice + Probiotics (SPF50+ PA++++)",
+            "heading": "How to use",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -203,7 +171,7 @@
         "text_YhrCBd": {
           "type": "text",
           "settings": {
-            "text": "<p>The iconic <strong>best seller</strong> that took over TikTok. Treat your skin to this creamy-yet-lightweight sunscreen with rice extract that comfortably hydrates for a non-sticky application and leaves your complexion dewy, bouncy, and bright.</p>",
+            "text": "<p>Apply after cleansing and toning.</p><p>Adjust the capsule-to-gel ratio to your skin’s needs, then smooth evenly across the face.</p><p>Use daily and follow with sunscreen in the morning for best results.</p><p>Mix the vitamin capsule and transparent gel in a suitable ratio based on your skin type. For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule. Apply the mixture morning and evening to face and neck, after serum.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -215,7 +183,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001010518.jpg",
+        "image": "shopify://shop_images/1001010778.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -249,7 +217,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Beauty of Joseon",
+            "text": "Medicube",
             "text_size": 20,
             "link": ""
           }
@@ -487,7 +455,6 @@
     "empty-space",
     "main",
     "product-recommendations",
-    "scrolling_promotion_z47dKa",
     "image_with_text_h9WHFX",
     "scrolling_promotion_MaPTiF",
     "image_with_text_QgbMDM",
