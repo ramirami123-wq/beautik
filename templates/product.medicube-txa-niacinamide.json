@@ -359,14 +359,14 @@
           "type": "question",
           "settings": {
             "title": "Is this suitable for all skin types?",
-            "text": "<p>Yes, it is suitable for all skin types, including sensitive skin.</p>"
+            "text": "<p>Yes, the formula is gentle and non-irritating, making it suitable for sensitive and acne-prone skin.</p>"
           }
         },
         "question_gcXFMX": {
           "type": "question",
           "settings": {
             "title": "When will I see results?",
-            "text": "<p>You may notice improved hydration and glow after a few uses, while visible brightening and more even skin tone appear with consistent use over time.<br/></p>"
+            "text": "<p>You may notice improved hydration and glow within a few uses, while dark spots and uneven tone improve with consistent use.<br/></p>"
           }
         }
       },
