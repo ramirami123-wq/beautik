@@ -286,7 +286,7 @@
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p>Formulated to feel exactly like a creamy moisturizer, our Internet-famous sunscreen stays lightweight and non-sticky no matter how much you apply. Infused with 30% rice extract and fermented grain extracts rich in vitamins, amino acids, and minerals to help moisturize and soothe with every application. Absorbs quickly for a natural glow with zero white cast, ever.</p>",
+            "text": "<p>Formulated to feel exactly like a creamy moisturizer, our Internet-famous sunscreen stays lightweight and non-sticky no matter how much you apply.</p><p> Infused with 30% rice extract and fermented grain extracts rich in vitamins, amino acids, and minerals to help moisturize and soothe with every application.</p><p> Absorbs quickly for a natural glow with zero white cast, ever.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
