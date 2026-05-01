@@ -208,6 +208,34 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_aECzcw": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1001010936.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "scrolling_promotion_MaPTiF": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -441,6 +469,34 @@
     "1771850465e38b72c3": {
       "type": "_blocks",
       "settings": {}
+    },
+    "image_with_text_73aBqq": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1001010936.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -448,6 +504,7 @@
     "main",
     "product-recommendations",
     "image_with_text_h9WHFX",
+    "image_with_text_aECzcw",
     "scrolling_promotion_MaPTiF",
     "image_with_text_QgbMDM",
     "blocks_8dT8XJ",
@@ -455,6 +512,7 @@
     "1775152125fc7bdaef",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
-    "1771850465e38b72c3"
+    "1771850465e38b72c3",
+    "image_with_text_73aBqq"
   ]
 }
