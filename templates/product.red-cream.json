@@ -331,10 +331,10 @@
             "columns_mobile": "2",
             "gap": 16,
             "desktop_width_percent": 100,
-            "gif_1": "shopify://shop_images/1001010917.jpg",
-            "gif_2": "shopify://shop_images/1001010915.jpg",
-            "gif_3": "shopify://shop_images/1001010776.jpg",
-            "gif_4": "shopify://shop_images/1763644046_phpbap01me57h6jfYuBJzr.jpg",
+            "gif_1": "shopify://shop_images/1001011023.jpg",
+            "gif_2": "shopify://shop_images/1001011021.jpg",
+            "gif_3": "shopify://shop_images/1001011022.jpg",
+            "gif_4": "shopify://shop_images/1001011024.jpg",
             "hover_scale": 1.1,
             "border_radius": 8,
             "placeholder_bg_color": "#f3f3f3",
@@ -359,14 +359,14 @@
           "type": "question",
           "settings": {
             "title": "Is this suitable for all skin types?",
-            "text": "<p>Yes, it is suitable for all skin types, including sensitive skin.</p>"
+            "text": "<p>Yes, the formula is gentle and non-irritating, making it suitable for sensitive and acne-prone skin.</p>"
           }
         },
         "question_gcXFMX": {
           "type": "question",
           "settings": {
             "title": "When will I see results?",
-            "text": "<p>You may notice improved hydration and glow after a few uses, while visible brightening and more even skin tone appear with consistent use over time.<br/></p>"
+            "text": "<p>You may notice improved hydration and glow within a few uses, while dark spots and uneven tone improve with consistent use.</p>"
           }
         }
       },
