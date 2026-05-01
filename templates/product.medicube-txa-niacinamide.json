@@ -171,7 +171,7 @@
         "text_YhrCBd": {
           "type": "text",
           "settings": {
-            "text": "<p>Mix the red TXA capsule and red gel in a suitable ratio based on your skin type.</p><p> For a lighter feel, increase the ratio of the gel, while for more hydration and elasticity, increase the ratio of the capsule. Apply the mixture morning and evening to face and neck, after serum. </p><p>Customize your routine based on skin needs!</p>",
+            "text": "<p>Apply evenly as the last step of your skincare routine before sun exposure.</p><p>Use a generous amount on the face and neck, and gently blend until fully absorbed.</p><p>Reapply every 2–3 hours, especially after sweating or sun exposure, to maintain full protection.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -183,36 +183,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1001011025.jpg",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_aECzcw": {
-      "type": "image-with-text",
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/1001011026.jpg",
+        "image": "shopify://shop_images/L_g0210611169_032.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -275,7 +246,7 @@
         "heading_tALbLw": {
           "type": "heading",
           "settings": {
-            "heading": "Clearer Skin, Smarter Care",
+            "heading": "More Than Just Sun Protection",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -283,7 +254,7 @@
         "text_Rh9bLj": {
           "type": "text",
           "settings": {
-            "text": "<p>This advanced capsule cream is designed for those struggling with stubborn dark spots, post-acne marks, and uneven skin tone. </p><p>By combining targeted brightening ingredients with deep hydration, it helps restore clarity and balance without stressing the skin. </p><p>The formula supports your skin barrier while improving overall radiance, making it ideal for daily use if you want smoother, healthier-looking skin over time.</p>",
+            "text": "<p>This sunscreen does more than protect your skin.</p><p>It gives a soft tone-up effect for a natural, healthy glow.</p><p>Lightweight and comfortable, it doesn’t feel heavy or greasy.</p><p>Perfect for everyday use, even without makeup.</p><p>With collagen and skin-loving ingredients, it helps your skin look smoother, brighter, and more balanced over time.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,7 +266,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1776767547_php85tkucdhu95s7wYZtfr.jpg",
+        "image": "shopify://shop_images/Collagen-Firming-Suncream-50-ML-MEDICUBE-4.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -322,33 +293,6 @@
     },
     "blocks_8dT8XJ": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_4f31cf3_xxxXw4": {
-          "type": "ai_gen_block_4f31cf3",
-          "name": "Animated GIF gallery",
-          "settings": {
-            "columns_desktop": 2,
-            "columns_mobile": "2",
-            "gap": 16,
-            "desktop_width_percent": 100,
-            "gif_1": "shopify://shop_images/1001011023.jpg",
-            "gif_2": "shopify://shop_images/1001011024.jpg",
-            "gif_3": "shopify://shop_images/1001011022.jpg",
-            "gif_4": "shopify://shop_images/1001011021.jpg",
-            "hover_scale": 1.1,
-            "border_radius": 8,
-            "placeholder_bg_color": "#f3f3f3",
-            "shadow_horizontal": 0,
-            "shadow_vertical": 4,
-            "shadow_blur": 12,
-            "shadow_opacity": 0.2
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_4f31cf3_xxxXw4"
-      ],
       "name": "Benefits table",
       "settings": {}
     },
@@ -477,7 +421,6 @@
     "main",
     "product-recommendations",
     "image_with_text_h9WHFX",
-    "image_with_text_aECzcw",
     "scrolling_promotion_MaPTiF",
     "image_with_text_QgbMDM",
     "blocks_8dT8XJ",
