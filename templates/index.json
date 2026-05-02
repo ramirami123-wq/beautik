@@ -12,28 +12,28 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-2": {
+        "image_rFgVQT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/aamohg_f80985a0-43f4-4e2d-b3ff-9c634aed0d71.jpg",
+            "image": "shopify://shop_images/pexels-shiny-diamond-3762874.jpg",
             "image_position": "center center",
-            "text_box_position": "bottom-right",
+            "text_box_position": "middle-center",
             "subheading": "",
             "subheading_size": "h5",
             "heading": "",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "heading_tag": "h2",
             "text": "",
-            "text_size": "typeset2",
-            "button_label": "",
-            "button_link": "",
+            "text_size": "typeset",
+            "button_label": "Explore our collections",
+            "button_link": "shopify://collections",
             "button_size": "medium",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "slide-2"
+        "image_rFgVQT"
       ],
       "settings": {
         "slideshow_type": "legacy",
