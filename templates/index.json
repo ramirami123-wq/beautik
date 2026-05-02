@@ -68,12 +68,32 @@
             "button_size": "medium",
             "button_style_secondary": false
           }
+        },
+        "image_mmApp7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1777472611_phpjpandqna70c96cwhkrE.jpg",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Beauty of Joseon",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "shop now",
+            "button_link": "shopify://collections/beauty-of-joseon",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "image_rFgVQT",
         "image_nmLPH7",
-        "image_3bhcXT"
+        "image_3bhcXT",
+        "image_mmApp7"
       ],
       "settings": {
         "slideshow_type": "legacy",
