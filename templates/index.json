@@ -135,6 +135,53 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_TyneqM": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_fLEkiz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beauty-of-joseon",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_e97pVc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beauty-tools",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_b6RQV4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eqqalbery",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_fLEkiz",
+        "featured_collection_e97pVc",
+        "featured_collection_b6RQV4"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "Collections",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "apply_overlay": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "scrolling_promotion_gqQrxK": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -354,6 +401,7 @@
   "order": [
     "slideshow",
     "featured_product_RCYCaB",
+    "collection_list_TyneqM",
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
