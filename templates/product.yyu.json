@@ -471,6 +471,17 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_hgBiga": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div style=\"margin: 30px 0;\">\n  <h3 style=\"font-size: 18px; margin-bottom: 15px;\">FAQs</h3>\n  \n  <details style=\"margin-bottom: 8px; padding: 14px; background: #f8f8f8; border-radius: 8px;\">\n    <summary style=\"font-weight: bold; cursor: pointer; font-size: 15px;\">How does it work?</summary>\n    <p style=\"margin: 10px 0 0 0; font-size: 14px; color: #555;\">Gentle heat molds lashes upward. No clamping, no damage.</p>\n  </details>\n  \n  <details style=\"margin-bottom: 8px; padding: 14px; background: #f8f8f8; border-radius: 8px;\">\n    <summary style=\"font-weight: bold; cursor: pointer; font-size: 15px;\">Is it safe to use?</summary>\n    <p style=\"margin: 10px 0 0 0; font-size: 14px; color: #555;\">Yes. Anti-scald silicone tip + auto shut-off after 5 min.</p>\n  </details>\n  \n  <details style=\"margin-bottom: 8px; padding: 14px; background: #f8f8f8; border-radius: 8px;\">\n    <summary style=\"font-weight: bold; cursor: pointer; font-size: 15px;\">Can I use it every day?</summary>\n    <p style=\"margin: 10px 0 0 0; font-size: 14px; color: #555;\">Yes. Use low heat for daily use. Most use 4-5x per week.</p>\n  </details>\n  \n  <details style=\"padding: 14px; background: #f8f8f8; border-radius: 8px;\">\n    <summary style=\"font-weight: bold; cursor: pointer; font-size: 15px;\">All lash types?</summary>\n    <p style=\"margin: 10px 0 0 0; font-size: 14px; color: #555;\">Yes. 2 heat levels: Low for fine lashes, High for thick lashes.</p>\n  </details>\n</div>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "guarantees_Yj7NaV": {
       "type": "guarantees",
       "blocks": {
@@ -540,6 +551,7 @@
     "faq_ckLi7t",
     "1775152125fc7bdaef",
     "1771945068374140eb",
+    "custom_liquid_hgBiga",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
   ]
