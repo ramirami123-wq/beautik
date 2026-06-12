@@ -55,7 +55,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Heated Precision Styling</span> – Gently lifts and curls lashes while shaping brows with a safe, even heating design for long-lasting results.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Cordless & Rechargeable</span> – USB charging allows easy use at home or on the go with a compact, portable design.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Designed for safe use, even with mascara applied.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Multi-Functional Design</span> – Not only for lashes—also ideal for trimming eyebrows, nose, chin, and facial hair with precision.<br><br>\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span><br>\nTurn on (press for 3 seconds), wait until heated, then gently glide over lashes or use the trimming function as needed.<br><br>\n\n<span style=\"font-weight: bold;\">🚚 Pre-Order Notice:</span><br>\nDelivery may take 20–25 business days due to high demand (first batch limited).<br>\n💵 Cash on delivery available\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Effortless Lash Lift in Seconds</span><br>\nQuick, safe electric curler for natural long-lasting curl without damage.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating</span> – Ready in 20 seconds<br><br>\n\n<span style=\"font-weight: bold;\">👁️ Easy Use</span> – Smooth glide for perfect curl<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ 2 Heat Levels</span> – Adjustable for all lash types<br><br>\n\n<span style=\"font-weight: bold;\">🛡️ Safe Design</span> – Anti-scald comb protects skin & lashes<br><br>\n\n<span style=\"font-weight: bold;\">💖 Multi-Use</span> – Also works for brows, nose & facial hair trimming\n<span style=\"font-weight: bold;\">\n<br> <br>\n🔋 Cordless & Rechargeable</span> – USB charging allows easy use at home or on the go with a compact, portable design.<br><br>\n\n</div>\n\n<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n\n\n\n<span style=\"font-weight: bold;\">📌 How to Use:</span><br>\nTurn on (press for 3 seconds), wait until heated, then gently glide over lashes or use the trimming function as needed.<br><br>\n\n<span style=\"font-weight: bold;\">🚚 Pre-Order Notice:</span><br>\nDelivery may take 20–25 business days due to high demand (first batch limited).<br>\n💵 Cash on delivery available\n\n</div>"
           }
         },
         "variant_picker": {
@@ -97,14 +97,6 @@
           "settings": {
             "show_quantity_selector": false
           }
-        },
-        "collapsible_description_mFEEde": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "heart",
-            "heading": "Description",
-            "keep_open": true
-          }
         }
       },
       "block_order": [
@@ -118,8 +110,7 @@
         "buy_buttons",
         "custom_liquid_wbDEGx",
         "related_buttons",
-        "sticky_cart",
-        "collapsible_description_mFEEde"
+        "sticky_cart"
       ],
       "custom_css": [
         ".product-form__submit {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
