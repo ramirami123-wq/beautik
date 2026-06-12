@@ -198,6 +198,7 @@
       "block_order": [
         "announcement_UzDWeN"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -281,6 +282,7 @@
       "block_order": [
         "announcement_zejDLb"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -508,6 +510,7 @@
         "guarantee_C9FjyP",
         "guarantee_hU6LiX"
       ],
+      "disabled": true,
       "name": "t:sections.guarantees.presets.name",
       "settings": {
         "layout": "default",
