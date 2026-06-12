@@ -401,57 +401,6 @@
       "name": "Benefits table",
       "settings": {}
     },
-    "faq_mWxR3k": {
-      "type": "faq",
-      "blocks": {
-        "question_D8PeFX": {
-          "type": "question",
-          "settings": {
-            "title": "How does it work?",
-            "text": "<p>Gentle heat molds lashes upward. No clamping, no damage.</p>"
-          }
-        },
-        "question_YL3UUF": {
-          "type": "question",
-          "settings": {
-            "title": "Is it safe to use?",
-            "text": "<p>Yes. Anti-scald silicone tip + auto shut-off after 5 min.</p>"
-          }
-        },
-        "question_zK8NVM": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use it every day?",
-            "text": "<p>Yes. Use low heat for daily use. Most use 4-5x per week</p>"
-          }
-        },
-        "question_kzcFDL": {
-          "type": "question",
-          "settings": {
-            "title": "All lash types?",
-            "text": "<p>Yes. 2 heat levels: Low for fine lashes, High for thick lashes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_D8PeFX",
-        "question_YL3UUF",
-        "question_zK8NVM",
-        "question_kzcFDL"
-      ],
-      "name": "t:sections.faq.presets.name",
-      "settings": {
-        "narrow": false,
-        "secondary_background": false,
-        "show_divider": false,
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "faq_ckLi7t": {
       "type": "faq",
       "blocks": {
@@ -598,7 +547,6 @@
     "scrolling_promotion_MaPTiF",
     "image_with_text_QgbMDM",
     "blocks_8dT8XJ",
-    "faq_mWxR3k",
     "faq_ckLi7t",
     "1775152125fc7bdaef",
     "1771945068374140eb",
