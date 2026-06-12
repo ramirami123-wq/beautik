@@ -52,6 +52,12 @@
             "custom_liquid": "<div style=\"display: flex; justify-content: space-between; gap: 8px; margin: 12px 0; text-align: center;\">\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    🚚<br>\n    <b>2-4 Days</b><br>\n    Delivery\n  </div>\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    💵<br>\n    <b>Cash on</b><br>\n    Delivery\n  </div>\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    ↩️<br>\n    <b>14 Days</b><br>\n    Returns\n  </div>\n\n</div>"
           }
         },
+        "custom_liquid_QUjikK": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "custom_liquid_TJV3Ri": {
           "type": "custom_liquid",
           "disabled": true,
@@ -118,6 +124,7 @@
         "rating",
         "price",
         "custom_liquid_t8Webd",
+        "custom_liquid_QUjikK",
         "custom_liquid_TJV3Ri",
         "custom_liquid_H9DXEK",
         "custom_liquid_txi7np",
@@ -310,7 +317,7 @@
         "custom_liquid_j4J8NA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin: 30px 0;\">\n  <h3 style=\"font-size: 18px; margin-bottom: 15px; text-align: center;\">Why Choose Us?</h3>\n  \n  <table style=\"width: 100%; border-collapse: collapse; font-size: 14px; border-radius: 10px; overflow: hidden;\">\n    <tr style=\"background: #111; color: #fff;\">\n      <th style=\"padding: 12px; text-align: left;\">Feature</th>\n      <th style=\"padding: 12px; text-align: center; background: #d4af37; color: #000;\">Our Tool</th>\n      <th style=\"padding: 12px; text-align: center;\">Others</th>\n    </tr>\n    \n    <tr style=\"border-bottom: 1px solid #eee;\">\n      <td style=\"padding: 12px; font-weight: bold;\">Portable</td>\n      <td style=\"padding: 12px; text-align: center; background: #fff9e6;\">✅ Travel-Friendly</td>\n      <td style=\"padding: 12px; text-align: center; color: #999;\">❌ Bulky</td>\n    </tr>\n    \n    <tr style=\"border-bottom: 1px solid #eee; background: #fafafa;\">\n      <td style=\"padding: 12px; font-weight: bold;\">Safe</td>\n      <td style=\"padding: 12px; text-align: center; background: #fff9e6;\">✅ No Burning</td>\n      <td style=\"padding: 12px; text-align: center; color: #999;\">❌ Can Pull Hair</td>\n    </tr>\n    \n    <tr style=\"border-bottom: 1px solid #eee;\">\n      <td style=\"padding: 12px; font-weight: bold;\">Charging</td>\n      <td style=\"padding: 12px; text-align: center; background: #fff9e6;\">✅ USB Rechargeable</td>\n      <td style=\"padding: 12px; text-align: center; color: #999;\">❌ Batteries</td>\n    </tr>\n    \n    <tr>\n      <td style=\"padding: 12px; font-weight: bold;\">Heating</td>\n      <td style=\"padding: 12px; text-align: center; background: #fff9e6;\">✅ 20s Heat Tech</td>\n      <td style=\"padding: 12px; text-align: center; color: #999;\">❌ Cold Only</td>\n    </tr>\n  </table>\n</div>"
+            "custom_liquid": "<div style=\"margin: 35px 0;\">\n  <h3 style=\"font-size: 18px; margin-bottom: 18px; text-align: center; font-weight: 600; letter-spacing: 0.5px;\">Smart Design, Stunning Results</h3>\n  \n  <div style=\"border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden;\">\n    <table style=\"width: 100%; border-collapse: collapse; font-size: 14px;\">\n      <thead>\n        <tr style=\"background: #0a0a0a; color: #fff;\">\n          <th style=\"padding: 16px 12px; text-align: left; font-weight: 600;\">Feature</th>\n          <th style=\"padding: 16px 12px; text-align: center; background: #F8F8F5; color: #0a0a0a; font-weight: 600; border-left: 3px solid #0a0a0a; border-right: 3px solid #0a0a0a;\">Us</th>\n          <th style=\"padding: 16px 12px; text-align: center; font-weight: 600;\">Others</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr style=\"border-bottom: 1px solid #eee;\">\n          <td style=\"padding: 16px 12px;\">Portable & Compact</td>\n          <td style=\"padding: 16px 12px; text-align: center; background: #F8F8F5; border-left: 3px solid #0a0a0a; border-right: 3px solid #0a0a0a;\">✓ Travel-Friendly</td>\n          <td style=\"padding: 16px 12px; text-align: center; color: #999;\">✕ Bulky</td>\n        </tr>\n        \n        <tr style=\"border-bottom: 1px solid #eee;\">\n          <td style=\"padding: 16px 12px;\">Safe & Gentle Use</td>\n          <td style=\"padding: 16px 12px; text-align: center; background: #F8F8F5; border-left: 3px solid #0a0a0a; border-right: 3px solid #0a0a0a;\">✓ Skin-Friendly</td>\n          <td style=\"padding: 16px 12px; text-align: center; color: #999;\">✕ Can Pull Hair</td>\n        </tr>\n        \n        <tr style=\"border-bottom: 1px solid #eee;\">\n          <td style=\"padding: 16px 12px;\">USB Rechargeable</td>\n          <td style=\"padding: 16px 12px; text-align: center; background: #F8F8F5; border-left: 3px solid #0a0a0a; border-right: 3px solid #0a0a0a;\">✓ Yes</td>\n          <td style=\"padding: 16px 12px; text-align: center; color: #999;\">✕ No</td>\n        </tr>\n        \n        <tr>\n          <td style=\"padding: 16px 12px;\">20s Lash Technology</td>\n          <td style=\"padding: 16px 12px; text-align: center; background: #F8F8F5; border-left: 3px solid #0a0a0a; border-right: 3px solid #0a0a0a;\">✓ Yes</td>\n          <td style=\"padding: 16px 12px; text-align: center; color: #999;\">✕ Basic Curlers</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</div>"
           }
         }
       },
