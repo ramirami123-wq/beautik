@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_t8Webd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; justify-content: space-between; gap: 8px; margin: 12px 0; text-align: center;\">\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    🚚<br>\n    <b>2-4 Days</b><br>\n    Delivery\n  </div>\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    💵<br>\n    <b>Cash on</b><br>\n    Delivery\n  </div>\n  \n  <div style=\"flex: 1; font-size: 12px;\">\n    ↩️<br>\n    <b>14 Days</b><br>\n    Returns\n  </div>\n\n</div>"
+          }
+        },
         "custom_liquid_TJV3Ri": {
           "type": "custom_liquid",
           "settings": {
@@ -104,6 +110,7 @@
         "title",
         "rating",
         "price",
+        "custom_liquid_t8Webd",
         "custom_liquid_TJV3Ri",
         "custom_liquid_H9DXEK",
         "variant_picker",
